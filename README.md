@@ -1,1 +1,1 @@
-# Sql
+ SQL Practice Repository!
