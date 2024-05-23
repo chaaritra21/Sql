@@ -1,1 +1,16 @@
+Q1.Query all columns for all American cities in the CITY table with populations larger than 100000. The CountryCode for America is USA.
+
+SELECT * FROM CITY 
+WHERE CountryCode = 'USA' AND POPULATION > 100000;
+
+Q2.Query the NAME field for all American cities in the CITY table with populations larger than 120000. The CountryCode for America is USA.
+
+select name  from city
+where population > 120000 AND CountryCode= 'USA';
+
+Q3.Query all columns (attributes) for every row in the CITY table.
+
+Select * From City
+
+Q4.
 
