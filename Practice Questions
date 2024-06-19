@@ -128,7 +128,7 @@ WHEN A != B AND B != C AND A != C THEN "Scalene"
 END
 FROM TRIANGLES
 
-Q23. 
+
 
 
 
